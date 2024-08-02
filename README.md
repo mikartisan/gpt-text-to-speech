@@ -26,3 +26,5 @@
 
    ```bash
    node server.mjs
+
+![Screenshot](public/image/ss.png)
