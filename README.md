@@ -16,5 +16,13 @@
    ```bash
    git clone https://github.com/mikartisan/gpt-text-to-speech.git
    cd gpt-text-to-speech
+
+2. **Install dependencies:**
+
+   ```bash
    npm install
+
+3. **Start the server:**
+
+   ```bash
    node server.mjs
