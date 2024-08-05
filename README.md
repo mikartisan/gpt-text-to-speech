@@ -1,6 +1,6 @@
 # GPT Text-to-Speech
 
-**GPT Text-to-Speech** is a web application that integrates with the GPT API model and text-to-speech services to convert text queries into spoken audio. The application uses Node.js for the server and JavaScript for the client-side interactions. The primary features include querying the GPT model and converting the responses into audio using different voices.
+**GPT Text-to-Speech** is a web application that integrates with the GPT API model and text-to-speech services to convert text queries into spoken audio. The application uses Node.js for the server and JavaScript for the client-side interactions. 
 
 ## Features
 
